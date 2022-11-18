@@ -1,4 +1,3 @@
-# link
 # https://practice.geeksforgeeks.org/problems/reverse-an-array/0
 # code
 T = int(input())

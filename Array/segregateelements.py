@@ -1,4 +1,5 @@
-#User function Template for python3
+# https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1
+# User function Template for python3
 
 class Solution:
     def segregateElements(self, arr, n):
